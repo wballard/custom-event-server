@@ -1,0 +1,23 @@
+{
+  "name": "custom-event-server",
+  "version": "0.0.0",
+  "description": "Extends the DOM CustomEvent model through to the server",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wballard/custom-event-server.git"
+  },
+  "author": "Will Ballard <wballard@mailframe.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wballard/custom-event-server/issues"
+  },
+  "homepage": "https://github.com/wballard/custom-event-server",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "colors": "^0.6.2",
+    "js-yaml": "^3.0.2",
+    "ws": "^0.4.31"
+  }
+}
